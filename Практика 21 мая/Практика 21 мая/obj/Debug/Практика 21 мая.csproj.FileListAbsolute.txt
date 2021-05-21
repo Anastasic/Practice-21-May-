@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\bin\Debug\Практика 21 мая.exe.config
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\bin\Debug\Практика 21 мая.exe
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\bin\Debug\Практика 21 мая.pdb
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая.g.resources
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика_21_мая.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая.exe
+C:\Users\Lenovo\source\repos\Практика 21 мая\Практика 21 мая\obj\Debug\Практика 21 мая.pdb

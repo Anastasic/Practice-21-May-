@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\bin\Debug\netcoreapp3.1\Практическая работа (21 мая).exe
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\bin\Debug\netcoreapp3.1\Практическая работа (21 мая).deps.json
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\bin\Debug\netcoreapp3.1\Практическая работа (21 мая).runtimeconfig.json
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\bin\Debug\netcoreapp3.1\Практическая работа (21 мая).runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\bin\Debug\netcoreapp3.1\Практическая работа (21 мая).dll
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\bin\Debug\netcoreapp3.1\Практическая работа (21 мая).pdb
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).dll
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).pdb
+C:\Users\Lenovo\source\repos\Практическая работа (21 мая)\Практическая работа (21 мая)\obj\Debug\netcoreapp3.1\Практическая работа (21 мая).genruntimeconfig.cache
